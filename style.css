@@ -3,8 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: #340569;
+main{
+    background-image: url(./fondo2.jpg);
+    background-size: 100%;
 }
 nav{
     background-color: #340569;
